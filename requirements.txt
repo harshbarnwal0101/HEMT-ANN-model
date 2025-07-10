@@ -1,0 +1,14 @@
+
+---
+
+## 📦 `requirements.txt`
+
+Save this as `requirements.txt`:
+
+```txt
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+jupyter
